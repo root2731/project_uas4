@@ -39,12 +39,11 @@ $dbname = "store_manager";
 
 5. Jalankan Aplikasi
 Buka browser dan kunjungi:
-http://localhost/project-uas/src/index.php
+http://localhost/project-uas/src/login.php
 
 Login Awal (Contoh)
 Role	Username	Password
 Admin	admin	admin123
-Customer	user	user123
 Catatan: Password bisa saja sudah dalam bentuk hash tergantung isi database.sql.
 
 ❓ Masalah Umum
