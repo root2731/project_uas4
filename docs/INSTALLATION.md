@@ -15,7 +15,7 @@ Ikuti langkah-langkah di bawah ini untuk menginstal dan menjalankan aplikasi Sto
 ## 🔧 Langkah Instalasi
 
 ### 1. Clone atau Unduh Proyek
-bash git clone https://github.com/username/StoreManagerPro.git
+bash git clone https://github.com/root2731/project_uas4.git
 
 2. Salin ke Direktori Web
 Salin folder PROJECT-UAS/ ke dalam:
