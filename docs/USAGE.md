@@ -11,7 +11,9 @@ http://localhost/project-uas/src/login.php / https://storemanagerpro.my.id/src/i
 
 
 Masukkan username dan password sesuai dengan role Anda.
-
+contoh akun admin :
+username : admin
+password : admin123
 ---
 
 ## 🧑‍💼 Admin
