@@ -7,7 +7,7 @@ Dokumen ini menjelaskan alur penggunaan aplikasi StoreManagerPro untuk **Admin**
 ## 👤 Login
 
 Akses melalui:
-http://localhost/project-uas/src/login.php
+http://localhost/project-uas/src/login.php / https://storemanagerpro.my.id/src/index.php?page=reports
 
 
 Masukkan username dan password sesuai dengan role Anda.
