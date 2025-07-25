@@ -1,3 +1,5 @@
+Link VIDIO YouTube : https://youtu.be/-SWe84FyggY
+
 # 📦 StoreManagerPro — Aplikasi Manajemen Toko (UAS Web Dinamis)
 
 StoreManagerPro adalah aplikasi web dinamis berbasis PHP dan MySQL yang dirancang untuk mengelola inventaris, transaksi, dan pengguna dalam sebuah toko. Aplikasi ini mendukung autentikasi pengguna, manajemen produk, keranjang belanja, laporan transaksi, dan banyak fitur lainnya.
